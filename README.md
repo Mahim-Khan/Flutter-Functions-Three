@@ -1,16 +1,13 @@
-# fl_work_file_2
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Flutter Functions
+in this app there are use of
+1. Flutter Dismissible
+2. Flutter Check Box
+3. Animated crossfade flutter
+4. Switch in flutter
+5. Animated Container in flutter
+6. Expansion Tile widget in flutter
+7. Tooltip widget in flutter
+8. Back drop Filter in flutter
+9. Date Time picker in flutter
+10. Flutter Transform widget
+11. Fetching JSON data with http request in flutter
